@@ -1,0 +1,10 @@
+{
+    "name":{
+        "first":"Abby",
+        "last":"Rokus"
+    },
+    "fromWisconsin":true,
+    "numCredits":12,
+    "major":"Computer Engineering and Computer Science",
+    "interests":["Baking", "Pilates", "Travel", "Art History", "Painting"]
+}
